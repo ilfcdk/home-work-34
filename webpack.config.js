@@ -58,7 +58,7 @@ module.exports = {
 
   optimization: {
     splitChunks: {
-      chunks: 'all', // ✔️ Зовнішні бібліотеки в окремий chunk
+      chunks: 'all', // Зовнішні бібліотеки в окремий chunk
     },
   },
 
